@@ -4,3 +4,7 @@
   font-weight: 400;
   margin: 24px 0 24px 0;
 }
+
+.intro__text-paragraph:last-child {
+  margin-bottom: 0;
+}
