@@ -25,3 +25,12 @@
 @import url(../blocks/cover/__text/__text-paragraph/cover__text-paragraph.css);
 @import url(../blocks/cover/__text/__text-paragraph/_center/cover__text-paragraph_center.css);
 @import url(../blocks/cover/__text/__text-paragraph/_right/cover__text-paragraph_right.css);
+
+/* intro section */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__header/intro__header.css);
+@import url(../blocks/intro/__header/__header-title/intro__header-title.css);
+@import url(../blocks/intro/__header/__header-date/intro__header-date.css);
+
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__text/__text-paragraph/intro__text-paragraph.css);
