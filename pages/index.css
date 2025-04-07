@@ -3,3 +3,25 @@
 
 /* fonts.css */
 @import url(../vendor/fonts/fonts.css);
+
+/* root */
+@import url(../blocks/root/root.css);
+
+/* header block */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo/__logo-image/header__logo-image.css);
+
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu/__menu-list/header__menu-list.css);
+@import url(../blocks/header/__menu/__menu-item/__menu-item.css);
+@import url(../blocks/header/__menu/__menu-item/_active/header__menu-item_active.css);
+
+/* cover section  */
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__text/cover__text.css);
+@import url(../blocks/cover/__text/__text-paragraph/cover__text-paragraph.css);
+@import url(../blocks/cover/__text/__text-paragraph/_center/cover__text-paragraph_center.css);
+@import url(../blocks/cover/__text/__text-paragraph/_right/cover__text-paragraph_right.css);

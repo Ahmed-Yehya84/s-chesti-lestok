@@ -1,0 +1,7 @@
+.header {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: first baseline;
+  margin: 24px 18.55px 0 20px;
+}
