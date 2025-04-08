@@ -1,0 +1,8 @@
+.how-to__header {
+  font-family: "Eb Garamond", sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+}
