@@ -39,3 +39,9 @@
 @import url(../blocks/reasons/__header/reasons__header.css);
 @import url(../blocks/reasons/_yellow/reasons_yellow.css);
 @import url(../blocks/reasons/__title/reasons__title.css);
+@import url(../blocks/reasons/__text/reasons__text.css);
+@import url(../blocks/reasons/__text/__text-paragraph/reasons__text-paragraph.css);
+@import url(../blocks/reasons/__list/reasons__list.css);
+@import url(../blocks/reasons/__list/__list-item/reasons__list-item.css);
+@import url(../blocks/reasons/__list/__list-text/reasons__list-text.css);
+@import url(../blocks/reasons/__list/__list-item/_bold/reasons__list-item_bold.css);
