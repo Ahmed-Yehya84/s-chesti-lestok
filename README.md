@@ -4,3 +4,5 @@
 For this ready-made case study, we’ve prepared a project called "Fear of a Blank Slate," a small mobile page. We often hear from students about this uneasy feeling before their first project.
 
 Let’s combine the pleasant with the useful: to overcome this fear, we suggest watching an experienced developer build this page. At the start, it’s crucial to form a mental picture of the result and the steps to get there. The paths are already paved—our goal is to share them with you!
+
+hosted on github pages: https://ahmed-yehya84.github.io/s-chesti-lestok/
