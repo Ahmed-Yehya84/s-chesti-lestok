@@ -7,6 +7,10 @@
 /* root */
 @import url(../blocks/root/root.css);
 
+/* content-section */
+@import url(../blocks/content-section/content-section.css);
+@import url(../blocks/content-section/_theme_dark/content-section_theme_dark.css);
+@import url(../blocks/content-section/_theme-bright/content-section_theme_bright.css);
 /* header block */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
