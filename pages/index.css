@@ -28,6 +28,7 @@
 @import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__text/cover__text.css);
 @import url(../blocks/cover/__text/__text-paragraph/cover__text-paragraph.css);
+@import url(../blocks/cover/__text/__text-paragraph/_font/cover__text-paragraph_font.css);
 @import url(../blocks/cover/__text/__text-paragraph/_center/cover__text-paragraph_center.css);
 @import url(../blocks/cover/__text/__text-paragraph/_right/cover__text-paragraph_right.css);
 
